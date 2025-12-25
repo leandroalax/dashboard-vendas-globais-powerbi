@@ -21,6 +21,8 @@ Além disso, o usuário pode filtrar os dados dinamicamente por:
 - Segmento
 - País
 
+<img width="1175" height="650" alt="Captura de tela 2025-12-25 101803" src="https://github.com/user-attachments/assets/0a61b087-cd18-4661-bc51-8e6e1a42963a" />
+
 ---
 
 ## Visão Geral do Dataset
