@@ -62,6 +62,7 @@ Apesar de adequado para fins analíticos e educacionais, o dataset apresenta alg
 - Padronização elevada das categorias
 - Ausência de outliers extremos
 - Estrutura já preparada para análise
+- O dataset não disponibiliza informações detalhadas de custo. A métrica de lucro apresentada é fornecida como um campo consolidado, o que limita análises financeiras mais aprofundadas, como cálculo de margem real por produto ou região.
 
 Esses pontos foram considerados ao longo da análise.
 
