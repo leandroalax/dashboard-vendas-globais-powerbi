@@ -5,6 +5,7 @@ Este projeto apresenta um dashboard analítico desenvolvido no Microsoft Power B
 
 O dashboard foi desenvolvido como parte do curso *Microsoft Power BI para Business Intelligence e Data Science* da Data Science Academy, seguindo uma abordagem analítica orientada a negócio.
 
+Site: https://www.datascienceacademy.com.br/
 ---
 
 ## Perguntas de Negócio Respondidas
