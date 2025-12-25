@@ -5,6 +5,8 @@ This project presents an analytical dashboard developed in Microsoft Power BI wi
 
 The dashboard was created as part of the *Microsoft Power BI for Business Intelligence and Data Science* program at Data Science Academy and follows a business-driven analytical approach.
 
+Site: https://www.datascienceacademy.com.br/
+
 ---
 
 ## Business Questions Addressed
