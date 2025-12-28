@@ -23,6 +23,8 @@ Additionally, the dashboard allows dynamic filtering by:
 - Customer Segment
 - Country
 
+<img width="1175" height="650" alt="Captura de tela 2025-12-25 101803" src="https://github.com/user-attachments/assets/fc6890c1-cb0a-47a7-afd5-cbe77d8bfcee" />
+
 ---
 
 ## Dataset Overview
