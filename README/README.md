@@ -65,7 +65,7 @@ The choice of visualizations used in this dashboard was based on best practices 
 
 A detailed explanation of the rationale behind each visualization, including advantages, limitations, and alternative considerations, is available in the document below:
 
-➡️ [Data Visualization Rationale](docs/visualizacao_dados.md)
+➡️ [Data Visualization Rationale](docs/data_visualization_rationale.md)
 
 ---
 
