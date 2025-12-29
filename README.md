@@ -60,6 +60,15 @@ Additionally, the dashboard allows dynamic filtering by:
 
 ---
 
+## Data Visualization Rationale
+The choice of visualizations used in this dashboard was based on best practices in data visualization and business analytics. Each chart was selected according to the type of data and the business question it aims to answer.
+
+A detailed explanation of the rationale behind each visualization, including advantages, limitations, and alternative considerations, is available in the document below:
+
+➡️ [Data Visualization Rationale](docs/visualizacao_dados.md)
+
+---
+
 ## Data Limitations
 Although suitable for analytical and educational purposes, the dataset presents some limitations when compared to real-world corporate data:
 - No missing values
