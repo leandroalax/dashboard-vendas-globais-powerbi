@@ -58,6 +58,14 @@ Além disso, o usuário pode filtrar os dados dinamicamente por:
 - **Mapa geográfico** com destaque para países com maior média de vendas
 
 ---
+## Racional de Visualização de Dados
+As visualizações utilizadas neste dashboard foram definidas com base em boas práticas de visualização de dados e análise orientada a negócio. Cada gráfico foi escolhido de acordo com o tipo de dado e a pergunta de negócio que se propõe a responder.
+
+A explicação detalhada do racional por trás de cada visualização, incluindo vantagens, limitações e alternativas consideradas, está disponível no documento abaixo:
+
+➡️ [Racional de Visualização de Dados](docs/visualizacao_dados.md)
+
+---
 
 ## Limitações dos Dados
 Apesar de adequado para fins analíticos e educacionais, o dataset apresenta algumas limitações quando comparado a dados corporativos reais:
