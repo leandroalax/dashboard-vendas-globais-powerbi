@@ -90,3 +90,6 @@ These characteristics were considered during analysis and documentation.
 ## Author
 **Leandro Álax**  
 Data Analyst | Business Intelligence  
+--- 
+For professional inquiries or collaboration opportunities,
+leandroalax@hotmail.com
