@@ -89,3 +89,6 @@ Esses pontos foram considerados ao longo da análise.
 ## Autor
 **Leandro Álax**  
 Analista de Dados | Business Intelligence  
+---
+Para consultas profissionais ou oportunidades de colaboração,
+leandroalax@hotmail.com
